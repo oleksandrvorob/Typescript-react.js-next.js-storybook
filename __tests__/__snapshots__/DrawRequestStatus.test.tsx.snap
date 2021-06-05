@@ -1,0 +1,358 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`draw status \`new\` 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div
+      class="MuiCardHeader-root"
+    >
+      <div
+        class="MuiCardHeader-content"
+      >
+        <span
+          class="MuiTypography-root MuiCardHeader-title MuiTypography-subtitle2 MuiTypography-colorTextSecondary MuiTypography-displayBlock"
+        >
+          Status
+        </span>
+      </div>
+      <div
+        class="MuiCardHeader-action"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary MuiButton-outlinedSizeSmall MuiButton-sizeSmall"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            hold
+            <span
+              class="MuiButton-endIcon MuiButton-iconSizeSmall"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M22 3H7c-.69 0-1.23.35-1.59.88L0 12l5.41 8.11c.36.53.9.89 1.59.89h15c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H7.07L2.4 12l4.66-7H22v14zm-11.59-2L14 13.41 17.59 17 19 15.59 15.41 12 19 8.41 17.59 7 14 10.59 10.41 7 9 8.41 12.59 12 9 15.59z"
+                />
+              </svg>
+            </span>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      class="MuiCardContent-root"
+    >
+      <div
+        class="makeStyles-root-108"
+      >
+        <div
+          class="MuiPaper-root MuiStepper-root MuiStepper-horizontal MuiStepper-alternativeLabel MuiPaper-elevation0"
+        >
+          <div
+            class="MuiStep-root MuiStep-horizontal MuiStep-alternativeLabel MuiStep-completed"
+          >
+            <span
+              class="MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel"
+            >
+              <span
+                class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-completed"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiStepLabel-labelContainer"
+              >
+                <span
+                  class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiStepLabel-completed MuiTypography-body2 MuiTypography-displayBlock"
+                >
+                  <div
+                    class="Flex-e0vd0d-0 kLtFGV"
+                    data-testid="stepper-new"
+                    direction="column"
+                  >
+                    <span
+                      class="MuiTypography-root MuiTypography-caption"
+                      data-testid="stepper-new-label"
+                    >
+                      new
+                    </span>
+                    <div
+                      data-testid="stepper-new-date"
+                    >
+                      <div
+                        class="makeStyles-root-137"
+                      >
+                        <span
+                          class="MuiTypography-root MuiTypography-caption MuiTypography-colorTextSecondary"
+                        >
+                          01.01.2020
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </span>
+              </span>
+            </span>
+          </div>
+          <div
+            class="MuiStep-root MuiStep-horizontal MuiStep-alternativeLabel"
+          >
+            <div
+              class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-alternativeLabel MuiStepConnector-active"
+            >
+              <span
+                class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+              />
+            </div>
+            <span
+              class="MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel"
+            >
+              <span
+                class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-active"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="12"
+                  />
+                  <text
+                    class="MuiStepIcon-text"
+                    text-anchor="middle"
+                    x="12"
+                    y="16"
+                  >
+                    2
+                  </text>
+                </svg>
+              </span>
+              <span
+                class="MuiStepLabel-labelContainer"
+              >
+                <span
+                  class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiStepLabel-active MuiTypography-body2 MuiTypography-displayBlock"
+                >
+                  <div
+                    class="Flex-e0vd0d-0 kLtFGV"
+                    data-testid="stepper-inspection ordered"
+                    direction="column"
+                  >
+                    <span
+                      class="MuiTypography-root MuiTypography-caption"
+                      data-testid="stepper-inspection ordered-label"
+                    >
+                      inspection ordered
+                    </span>
+                  </div>
+                </span>
+              </span>
+            </span>
+          </div>
+          <div
+            class="MuiStep-root MuiStep-horizontal MuiStep-alternativeLabel"
+          >
+            <div
+              class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-alternativeLabel Mui-disabled"
+            >
+              <span
+                class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+              />
+            </div>
+            <span
+              class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled MuiStepLabel-alternativeLabel"
+            >
+              <span
+                class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiStepIcon-root"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="12"
+                  />
+                  <text
+                    class="MuiStepIcon-text"
+                    text-anchor="middle"
+                    x="12"
+                    y="16"
+                  >
+                    3
+                  </text>
+                </svg>
+              </span>
+              <span
+                class="MuiStepLabel-labelContainer"
+              >
+                <span
+                  class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiTypography-body2 MuiTypography-displayBlock"
+                >
+                  <div
+                    class="Flex-e0vd0d-0 kLtFGV"
+                    data-testid="stepper-inspection approved"
+                    direction="column"
+                  >
+                    <span
+                      class="MuiTypography-root MuiTypography-caption"
+                      data-testid="stepper-inspection approved-label"
+                    >
+                      inspection approved
+                    </span>
+                  </div>
+                </span>
+              </span>
+            </span>
+          </div>
+          <div
+            class="MuiStep-root MuiStep-horizontal MuiStep-alternativeLabel"
+          >
+            <div
+              class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-alternativeLabel Mui-disabled"
+            >
+              <span
+                class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+              />
+            </div>
+            <span
+              class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled MuiStepLabel-alternativeLabel"
+            >
+              <span
+                class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiStepIcon-root"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="12"
+                  />
+                  <text
+                    class="MuiStepIcon-text"
+                    text-anchor="middle"
+                    x="12"
+                    y="16"
+                  >
+                    4
+                  </text>
+                </svg>
+              </span>
+              <span
+                class="MuiStepLabel-labelContainer"
+              >
+                <span
+                  class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiTypography-body2 MuiTypography-displayBlock"
+                >
+                  <div
+                    class="Flex-e0vd0d-0 kLtFGV"
+                    data-testid="stepper-approved"
+                    direction="column"
+                  >
+                    <span
+                      class="MuiTypography-root MuiTypography-caption"
+                      data-testid="stepper-approved-label"
+                    >
+                      approved
+                    </span>
+                  </div>
+                </span>
+              </span>
+            </span>
+          </div>
+          <div
+            class="MuiStep-root MuiStep-horizontal MuiStep-alternativeLabel"
+          >
+            <div
+              class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-alternativeLabel Mui-disabled"
+            >
+              <span
+                class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+              />
+            </div>
+            <span
+              class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled MuiStepLabel-alternativeLabel"
+            >
+              <span
+                class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiStepIcon-root"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="12"
+                  />
+                  <text
+                    class="MuiStepIcon-text"
+                    text-anchor="middle"
+                    x="12"
+                    y="16"
+                  >
+                    5
+                  </text>
+                </svg>
+              </span>
+              <span
+                class="MuiStepLabel-labelContainer"
+              >
+                <span
+                  class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiTypography-body2 MuiTypography-displayBlock"
+                >
+                  <div
+                    class="Flex-e0vd0d-0 kLtFGV"
+                    data-testid="stepper-funded"
+                    direction="column"
+                  >
+                    <span
+                      class="MuiTypography-root MuiTypography-caption"
+                      data-testid="stepper-funded-label"
+                    >
+                      funded
+                    </span>
+                  </div>
+                </span>
+              </span>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

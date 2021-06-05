@@ -1,0 +1,17 @@
+# serverless.yml
+quanta-platform:
+  component: '@sls-next/serverless-component@1.17.0'
+  inputs:
+    domain:
+      - ${env.subdomain}
+      - ${env.domain}
+    build:
+      env:
+        NEXTAUTH_URL: ${env.NEXTAUTH_URL}
+        GOOGLE_ID: ${env.GOOGLE_ID}
+        GOOGLE_SECRET: ${env.GOOGLE_SECRET}
+        POSTGRES_HOST: ${env.POSTGRES_HOST}
+        POSTGRES_USERNAME: ${env.POSTGRES_USERNAME}
+        POSTGRES_PASSWORD: ${env.POSTGRES_PASSWORD}
+        POSTGRES_DATABASE: ${env.POSTGRES_DATABASE}
+        POSTGRES_PORT: ${env.POSTGRES_PORT}
